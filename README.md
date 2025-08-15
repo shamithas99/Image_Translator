@@ -7,7 +7,6 @@ Pre-processing:
 The aim of pre-processing is an improvement of the image data that suppresses all the unwanted distortions and enhances some image features important for further processing.
 
 Segmentation is an important process in image recognition, its referred to the isolation of the position of the words within the image, and then the extraction of each letter individually.
-
 1: Horizontal segmentation
 2:  Vertical segmentation
 
